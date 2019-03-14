@@ -1,6 +1,6 @@
 Train_Activity
 The UCLA Coding Bootcamp
-Week 5: Javascript Assignment - Train Scheduler
+Javascript Assignment - Train Scheduler
 
 Overview
 
