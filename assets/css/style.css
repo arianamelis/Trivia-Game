@@ -6,6 +6,7 @@ body {
 body {
   text-align: center;
   background-image: url("../images/tacky.jpg");
+  color: aliceblue;
 }
 
 #wrapper {
@@ -13,7 +14,7 @@ body {
   height: 95%;
   box-sizing: border-box;
   margin: 2.5% auto;
-  background-color: #fff17a;
+  background-color: #B080ED;
 }
 
 #sub-wrapper {
@@ -41,7 +42,7 @@ h1 {
   font-family: Geo, sans-serif;
   font-size: 6.5em;
   font-weight: bold;
-  color: blue;
+  color: pink;
 }
 
 h2 {
@@ -56,7 +57,7 @@ h3 {
 
 #start {
   margin-top: 10%;
-  background: pink;
+  background:pink;
   border: 2px solid blue;
 }
 
